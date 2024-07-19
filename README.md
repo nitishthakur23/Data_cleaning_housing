@@ -43,7 +43,7 @@ This project focuses on cleaning and transforming the NashvilleHousing dataset w
 
 ## Acknowledgments
 
-This project is part of a YouTube tutorial series led by Alex the Analyst. The techniques and skills applied in this project were learned through his guidance. For a more detailed understanding of the project and SQL skills, refer to the tutorial series on Alex the Analyst's [YouTube channel](https://www.youtube.com/channel/UCtOfUcp88zp8klG6Bwr8U_g).
+This project is part of a YouTube tutorial series led by Alex the Analyst. The techniques and skills applied in this project were learned through his guidance. For a more detailed understanding of the project and SQL skills, refer to the tutorial series on Alex the Analyst's [YouTube channel](https://www.youtube.com/@AlexTheAnalyst).
 
 ## Getting Started
 
